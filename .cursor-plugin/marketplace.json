@@ -377,6 +377,11 @@
       "name": "sp-global",
       "source": "third_party/sp-global",
       "description": "Query S&P Capital IQ financials, prices, and transcripts."
+    },
+    {
+      "name": "interactive-brokers",
+      "source": "third_party/interactive-brokers",
+      "description": "Review positions, balances, P&L, and draft trade instructions."
     }
   ]
 }
