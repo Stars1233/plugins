@@ -372,6 +372,11 @@
       "name": "webull",
       "source": "third_party/webull",
       "description": "View accounts, positions, orders, watchlists, and market data."
+    },
+    {
+      "name": "sp-global",
+      "source": "third_party/sp-global",
+      "description": "Query S&P Capital IQ financials, prices, and transcripts."
     }
   ]
 }
