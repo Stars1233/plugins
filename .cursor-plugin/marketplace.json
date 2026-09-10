@@ -367,6 +367,11 @@
       "name": "gamma",
       "source": "third_party/gamma",
       "description": "Generate presentations, documents, and webpages."
+    },
+    {
+      "name": "webull",
+      "source": "third_party/webull",
+      "description": "View accounts, positions, orders, watchlists, and market data."
     }
   ]
 }
