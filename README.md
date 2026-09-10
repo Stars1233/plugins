@@ -72,7 +72,6 @@ Official Cursor plugins for popular developer tools, frameworks, and SaaS produc
 | `attio` | [Attio](third_party/attio/) | Cursor | Integrations | Search and update CRM records, lists, notes, and tasks. |
 | `hunter` | [Hunter](third_party/hunter/) | Cursor | Integrations | Find and verify emails, discover companies, and save leads. |
 | `teams` | [Teams](third_party/teams/) | Cursor | Productivity | Search, read, and send Microsoft Teams chats and channel messages. |
-| `sharepoint` | [SharePoint](third_party/sharepoint/) | Cursor | Productivity | Search SharePoint sites, browse document libraries, and read lists. |
 Author values match each plugin’s `plugin.json` `author.name` (Cursor lists `plugins@cursor.com` in the manifest).
 
 ## Repository structure
